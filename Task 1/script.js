@@ -8,6 +8,7 @@ pamatyti jo pateikto svorio konvertavimą į:
 Pastaba: atvaizdavimas turi būti matomas pateikus formą ir pateikiamas
 <div id="output"></div> viduje, bei turi turėti bent minimalų stilių;
 ------------------------------------------------------------------- */
+
 const submitBtn = document.getElementById("submit-btn");
 const output = document.getElementById("output");
 const search = document.getElementById("search");
